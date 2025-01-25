@@ -1,4 +1,4 @@
-#import "@<namespace>/assignment-template:0.1.1": style_exercise_generic
+#import "@local/assignment-template:0.1.3": style_exercise_generic
 
 #let (rules: ex_rules, make_title, exercise, subexercise) = style_exercise_generic(
   course: "School of black magic,\nMetaphysics",
