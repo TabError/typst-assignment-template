@@ -1,0 +1,9 @@
+[package]
+name = "my-exercises"
+version = "0.1.1"
+entrypoint = "src/lib.typ"
+authors = ["jp"]
+license = "toto"
+description = "my little exercise template for university ..."
+repository = "toto"
+compiler = "0.12"
